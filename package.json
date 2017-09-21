@@ -1,0 +1,26 @@
+{
+  "name": "blueprint",
+  "version": "0.0.1",
+  "description": "copochonline engineer blueprint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copochonline/blueprint.git"
+  },
+  "keywords": [
+    "markdown",
+    "blueprint"
+  ],
+  "author": "weilin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/copochonline/blueprint/issues"
+  },
+  "homepage": "https://github.com/copochonline/blueprint#readme",
+  "dependencies": {
+    "markdown-it": "^8.4.0"
+  }
+}
